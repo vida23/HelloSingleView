@@ -16,7 +16,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K6H-Sm-NNM">
-                                <rect key="frame" x="174.66666666666666" y="411" width="46" height="30"/>
+                                <rect key="frame" x="174.66666666666666" y="401" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="ButtonAct1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="x1T-D6-9AD"/>
@@ -25,8 +25,8 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="K6H-Sm-NNM" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="10" id="lRd-my-eII"/>
-                            <constraint firstItem="K6H-Sm-NNM" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="20" id="oX8-W5-HJT"/>
+                            <constraint firstItem="K6H-Sm-NNM" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="10" id="MNJ-17-lVD"/>
+                            <constraint firstItem="K6H-Sm-NNM" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="10" id="TBU-0e-aQT"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
